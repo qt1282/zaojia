@@ -1,0 +1,53 @@
+{
+  "2-1-10": {
+    "name": "石灰稳定土基层 (路拌法) 厚15cm",
+    "unit": "1000m²",
+    "labor": 12.50,
+    "mainMaterials": [
+      { "name": "生石灰", "consume": 10.20, "unit": "t" },
+      { "name": "黄土", "consume": 145.00, "unit": "m³" },
+      { "name": "水", "consume": 15.00, "unit": "m³" }
+    ],
+    "mainMachinery": [
+      { "name": "稳定土拌合机 105kW", "consume": 0.063, "unit": "台班" },
+      { "name": "钢轮压路机 15t", "consume": 0.089, "unit": "台班" }
+    ]
+  },
+  "2-1-11": {
+    "name": "石灰、粉煤灰、土基层 (路拌法) 厚15cm",
+    "unit": "1000m²",
+    "labor": 13.80,
+    "mainMaterials": [
+      { "name": "生石灰", "consume": 6.80, "unit": "t" },
+      { "name": "粉煤灰", "consume": 120.00, "unit": "t" },
+      { "name": "黄土", "consume": 95.00, "unit": "m³" }
+    ],
+    "mainMachinery": [
+      { "name": "稳定土拌合机 105kW", "consume": 0.075, "unit": "台班" }
+    ]
+  },
+  "2-1-88": {
+    "name": "细粒式沥青混凝土面层 (厚4cm)",
+    "unit": "1000m²",
+    "labor": 28.40,
+    "mainMaterials": [
+      { "name": "细粒式沥青混凝土", "consume": 40.80, "unit": "m³" },
+      { "name": "石屑", "consume": 1.20, "unit": "m³" }
+    ],
+    "mainMachinery": [
+      { "name": "沥青摊铺机 6.0m", "consume": 0.35, "unit": "台班" },
+      { "name": "双钢轮振动压路机 10t", "consume": 0.42, "unit": "台班" }
+    ]
+  },
+  "2-1-89": {
+    "name": "每增减 1cm 沥青混凝土面层",
+    "unit": "1000m²",
+    "labor": 5.20,
+    "mainMaterials": [
+      { "name": "细粒式沥青混凝土", "consume": 10.20, "unit": "m³" }
+    ],
+    "mainMachinery": [
+      { "name": "双钢轮振动压路机 10t", "consume": 0.08, "unit": "台班" }
+    ]
+  }
+}
